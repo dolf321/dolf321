@@ -39,12 +39,6 @@ I like building real systems, so I also explore adjacent technical areas:
 
 C, C++, Python, MATLAB, C#, ArduPilot, PX4, FreeRTOS, ROS, Gazebo, Linux, Docker, React, Flask.
 
-## CV
-
-[![View CV](https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./Rami_Richani_CV.pdf)
-
-[![CV Preview](./cv-preview.png)](./Rami_Richani_CV.pdf)
-
 ## Contact
 
 - GitHub: [github.com/dolf321](https://github.com/dolf321)
