@@ -13,4 +13,4 @@ Tech I use across software products and tools: React, JavaScript, Python, Flask,
 
 ## Contact
 
-[GitHub](https://github.com/dolf321) · [LinkedIn](https://ae.linkedin.com/in/rami-richani-91957b1b1) · [Email](mailto:rami.r.richani02@hotmail.com)
+ [LinkedIn](https://ae.linkedin.com/in/rami-richani-91957b1b1) · [Email](mailto:rami.r.richani02@hotmail.com)
